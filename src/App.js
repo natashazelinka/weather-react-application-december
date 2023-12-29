@@ -9,6 +9,7 @@ function App() {
         <a
           href="https://github.com/natashazelinka/weather-react-application-december"
           target="_blank"
+          rel="noreferrer"
         >
           on GitHub
         </a>
